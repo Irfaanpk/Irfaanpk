@@ -1,17 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="YOUR_GIF_URL" width="100%" />
-</p>
+<img src="https://github.com/Irfaanpk/Irfaanpk/blob/main/assets/github.gif" alt="Banner" width="100%" height="320"/>
 
-<h3 align="center">
+<h3 align="left">
   Cloud & DevSecOps Engineer| AWS| Azure| GCP| Kubernetes| Docker| Azure DevOps| Terraform| Jenkins| Ansible| GitOps| MLOps| AIOps| FinOps| Agentic AI| Cloud Security| Palo Alto| Fortinet| CCNA| MCSA| VPN|
 </h3>
 
-<p align="center">
-  📍 India &nbsp; • &nbsp;
-  📧 your-email@example.com &nbsp; • &nbsp;
-  🔗 <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<p align="left">
+  📍 India<br>
+  📧 <a href="mailto:muhammedirfanpk40@gmail.com">muhammedirfanpk40@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/irfaanpk/">LinkedIn</a>
 </p>
 
 ---
