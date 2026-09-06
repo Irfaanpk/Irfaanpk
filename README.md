@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Cloud & DevOps Engineer | Azure | AWS | GCP | DevSecOps | MLOps | AIOps
+  Cloud & DevSecOps Engineer| AWS| Azure| GCP| Kubernetes| Docker| Azure DevOps| Terraform| Jenkins| Ansible| GitOps| MLOps| AIOps| FinOps| Agentic AI| Cloud Security| Palo Alto| Fortinet| CCNA| MCSA| VPN|
 </h3>
 
 <p align="center">
