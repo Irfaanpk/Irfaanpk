@@ -83,6 +83,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-37651030-f215-41e9-91ee-05e714652431.gif" width="100%" alt="Matrix Stream" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122066-10360a80-f04b-4861-bf2a-605a6396f9cf.gif" width="100%" alt="Retro Lo-Fi Drive" />
-</p>
+
