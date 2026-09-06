@@ -1,6 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://github.com/Irfaanpk/Irfaanpk/blob/main/assets/github.gif" alt="Banner" width="100%" height="320"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Pixel Workspace" />
+</p>
 
 <h3 align="left">
   Cloud & DevSecOps Engineer| AWS| Azure| GCP| Kubernetes| Docker| Azure DevOps| Terraform| Jenkins| Ansible| GitOps| MLOps| AIOps| FinOps| Agentic AI| Cloud Security| Palo Alto| Fortinet| CCNA| MCSA| VPN|
