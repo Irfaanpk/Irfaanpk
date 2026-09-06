@@ -39,6 +39,12 @@
 
 ---
 
+## Keep Learning, Keep Building
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+> **“Learning never exhausts the mind.”**  
+> — *Leonardo da Vinci*
 
 
 
