@@ -75,9 +75,7 @@
   <i>Building • Automating • Securing • Learning</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:8957e5&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Dynamic Waving Banner" />
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-37651030-f215-41e9-91ee-05e714652431.gif" width="100%" alt="Matrix Stream" />
