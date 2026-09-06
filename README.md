@@ -1,38 +1,41 @@
-<p align="center">
-  <img src="YOUR_GIF_URL" width="100%" />
-</p>
-
-**Cloud & DevOps Engineer | Azure | AWS | Kubernetes | Terraform | DevSecOps**
-
-📍 India  
-📧 your-email@example.com  
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
-
----
-
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,jenkins,githubactions,git,linux,python,bash,powershell,ansible,github&perline=7)](https://skillicons.dev)
+### ☁️ Cloud Platforms
 
----
+[![Cloud](https://skillicons.dev/icons?i=azure,aws,gcp)](https://skillicons.dev)
 
-## 🏆 Achievements and Certifications
+### ⚙️ DevOps & CI/CD
 
-- **AWS Certified Solutions Architect – Associate**
-- **Microsoft Azure Certification**
-- **Oracle Certified AI Foundations Associate**
-- **OCI Certified Foundations Associate**
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argo)](https://skillicons.dev)
 
----
+### ☸️ Kubernetes & Cloud Native
 
-## 🚀 Projects
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes,helm,istio,nginx)](https://skillicons.dev)
 
-- **Azure Zero-to-Hero**
-- **AWS Zero-to-Hero**
-- **Kubernetes Zero-to-Hero**
-- **Terraform Infrastructure**
-- **DevSecOps Projects**
+### 🔐 DevSecOps & Security
 
----
+[![Security](https://skillicons.dev/icons?i=git,github,gitlab,linux)](https://skillicons.dev)
 
-> *Building cloud infrastructure, automating deployments, and continuously learning.*
+### 🐧 Linux & Infrastructure
+
+[![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,bash)](https://skillicons.dev)
+
+### 💻 Programming & Scripting
+
+[![Programming](https://skillicons.dev/icons?i=python,bash,powershell,go,java)](https://skillicons.dev)
+
+### 📊 Monitoring & Observability
+
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch)](https://skillicons.dev)
+
+### 🤖 AI / ML / MLOps
+
+[![AI ML](https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda)](https://skillicons.dev)
+
+### 🧠 AI / LLM / Automation
+
+[![AI](https://skillicons.dev/icons?i=python,docker,kubernetes)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
