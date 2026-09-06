@@ -21,7 +21,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,github,git,helm,nginx,linux,ubuntu,debian,redhat,bash,powershell,python,go,java,nodejs,fastapi,prometheus,grafana,elasticsearch,kafka,postgres,mysql,mongodb,redis,pytorch,tensorflow,anaconda,opencv,scikitlearn,flutter,dart,vscode,neovim,cloudflare,firebase,supabase,bitbucket&perline=10" width="580"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,github,git,helm,nginx,linux,ubuntu,debian,redhat,bash,powershell,python,go,java,nodejs,fastapi,prometheus,grafana,elasticsearch,kafka,postgres,mysql,mongodb,redis,pytorch,tensorflow,anaconda,opencv,scikitlearn,vscode,cloudflare,firebase,supabase,bitbucket&perline=13" />
 </p>
 
 ---
