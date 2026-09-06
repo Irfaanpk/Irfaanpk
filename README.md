@@ -28,57 +28,17 @@
 
 ---
 
-## 🏆 Achievements and Certifications
+### Achievements and Certifications
 
-- 🥇 **AWS Certified Solutions Architect – Associate**
-- ☁️ **Microsoft Azure Certification**
-- 🤖 **Oracle Certified AI Foundations Associate**
-- ☁️ **OCI Certified Foundations Associate**
-- 🎯 **Google Cloud Arcade / BaseCamp**
-- 🏅 **Add your other certifications and achievements**
 
----
+- **[AWS Solutions Architect Associate](https://www.credly.com/badges/2da16581-c5f4-434d-a3ca-f909976cb990/linked_in_profile)**
+- **[AWS Cloud Technology Consultant](https://www.coursera.org/account/accomplishments/specialization/MDMGGDAX8YJU)**
 
-## 🚀 Featured Projects
-
-### ☁️ Cloud & Infrastructure
-
-- **Azure Zero-to-Hero**
-- **AWS Zero-to-Hero**
-- **Multi-Cloud Infrastructure**
-- **Terraform Infrastructure Automation**
-
-### ⚙️ DevOps & DevSecOps
-
-- **Jenkins CI/CD Projects**
-- **GitHub Actions Pipelines**
-- **Docker & Kubernetes Projects**
-- **DevSecOps Pipeline**
-- **Infrastructure Security Automation**
-
-### 🤖 MLOps & AI
-
-- **MLOps Projects**
-- **Machine Learning Deployment**
-- **AI/ML Infrastructure**
-- **AI Automation & AIOps**
+- **[Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/KTMSWUHCEKLP)**
+- **[Introduction to DevOps](https://www.coursera.org/account/accomplishments/verify/KNA1DW4HGSVP)**
 
 ---
 
-## 📚 Currently Learning
 
-**Cloud Architecture • Kubernetes • Terraform • DevSecOps • MLOps • AIOps • Cloud Security**
-
----
-
-<p align="center">
-  <i>Building • Automating • Securing • Learning</i>
-</p>
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-37651030-f215-41e9-91ee-05e714652431.gif" width="100%" alt="Matrix Stream" />
-</p>
 
 
